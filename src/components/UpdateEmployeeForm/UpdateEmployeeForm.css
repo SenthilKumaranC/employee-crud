@@ -1,0 +1,19 @@
+.UpdateEmployeeForm{
+    background-color: white;
+    width: 50%;
+    height: 50;
+    display: flex;
+    flex-direction: column;
+    justify-items: stretch;
+    align-items: center;
+    gap:20px;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.UpdateEmployeeFormContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

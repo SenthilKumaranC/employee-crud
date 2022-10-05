@@ -1,0 +1,25 @@
+.AddEmployeeForm{
+    background-color: white;
+    width: 50%;
+    height: 50;
+    display: flex;
+    flex-direction: column;
+    justify-items: stretch;
+    align-items: center;
+    gap:20px;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.AddEmployeeFormContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.AddButton{
+    margin-right: 0px;
+    position: absolute;
+    right: 0px;
+}
